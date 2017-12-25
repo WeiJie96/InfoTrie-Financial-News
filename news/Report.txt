@@ -1,0 +1,10 @@
+I implemented my web crawler using Scrapy, as it is extremely fast and powerful, much more efficient than crawling using other packages or implementations such as BeautifulSoup.
+
+I decided to scrape Investing.com as it is a global financial portal and internet brand, and it provides multiple services such as news, analysis, streaming quotes and charts, technical data and financial tools about the global financial markets. As a supplier of a wide variety of financial news, it reports news on areas including Forex, commodities and crytocurrencies.
+
+I chose to extract the following attributes from the news articles: Date, Source, Category, Title and Content. Date is one of the most important features of an article, as even a difference of just a few minutes would greatly affect the process of decision making. The source of an article brings credibility, and most if not all articles on Investing.com come from reliable sources, such as Reuters and Bloomberg. 
+
+I have provided a sample output located in news\news\spiders\investnews.csv for your reference. 
+
+Please feel free to contact me if you have any questions regarding the script.
+ 
